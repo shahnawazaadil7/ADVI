@@ -89,5 +89,12 @@ The model performances for transaction fee classification are as follows:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/bitcoin-project.git
+   git clone https://github.com/shahnawazaadil7/bitcoin-project.git
    cd bitcoin-project
+   ```
+
+5. The application will perform the analysis and generate reports in the `output` directory.
+
+## Visualizing Results
+
+To visualize the results using Streamlit, run the following command:
