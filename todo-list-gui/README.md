@@ -7,7 +7,6 @@ This project is a simple To-Do List application that allows users to manage thei
 ```
 todo-list-gui
 ├── src
-│   ├── main.py          # Core functionality of the to-do list application
 │   ├── gui.py           # Graphical user interface implementation
 ├── requirements.txt     # List of dependencies
 ├── tasks.json           #  JSON file to store tasks
