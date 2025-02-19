@@ -9,8 +9,8 @@ todo-list-gui
 ├── src
 │   ├── main.py          # Core functionality of the to-do list application
 │   ├── gui.py           # Graphical user interface implementation
-│   └── tasks.json       # JSON file to store tasks
-├── requirements.txt      # List of dependencies
+├── requirements.txt     # List of dependencies
+├── tasks.json           #  JSON file to store tasks
 └── README.md            # Project documentation
 ```
 
