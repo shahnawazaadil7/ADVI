@@ -1,9 +1,13 @@
 {
-    "date": "2025-02-19",
+    "date": "2025-02-20",
     "tasks": [
         {
-            "task": "hi how are you ",
-            "completed": false
+            "task": "hi",
+            "completed": true
+        },
+        {
+            "task": "how are you ",
+            "completed": true
         }
     ]
 }

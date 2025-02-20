@@ -1,0 +1,12 @@
+dynamic-matrix
+├── src
+│   ├── matrix.py
+│   └── __init__.py
+├── tests
+│   ├── test_matrix.py
+│   └── __init__.py
+├── requirements.txt
+└── README.md
+
+# requirements.txt
+pytest

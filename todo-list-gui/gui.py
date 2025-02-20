@@ -2,8 +2,9 @@ import tkinter as tk
 from tkinter import messagebox, simpledialog
 import json
 import datetime
+import os
 
-TASKS_FILE = "tasks.json"
+TASKS_FILE = os.path.join(os.path.dirname(__file__), "tasks.json")
 
 def load_tasks():
     try:
